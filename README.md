@@ -1,5 +1,4 @@
 # SCD-Lab11
-# Introduction to DevOps
 
 **Names:** Ibad Khan, Sachin Ramesh, Abdul Basit, Husnaak Mansoor
 
